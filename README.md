@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Ffront-end-development-banner-concept-vector-8955789&psig=AOvVaw0KeGAp8gfOxgYbC2JbUcne&ust=1695871359139000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDnoqHryYEDFQAAAAAdAAAAABAl)]
 <h1 align="center">Hi 👋, I'm Sophie Le</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
