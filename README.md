@@ -1,7 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=100:002980,0:0049ba&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=60"/>
+
+[![Typing SVG](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20there!%20-nl-Welcome%20to%20my%20GitHub!&textBg=false&fontColor=black&animation=twinkling&fontSize=50&reversal=false)"
+
+
 <h1 align="center">Hi 👋, I'm Sophie Le</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![BannerOfReadMe](https://github.com/sophieLe256/sophieLe256/assets/102685323/bf75df35-db6f-4ef8-bfc2-3376ffe52de6)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophiele256&label=Profile%20views&color=0e75b6&style=flat" alt="sophiele256" /> </p>
@@ -12,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sophiele256.github.io/My_portfolio/](https://sophiele256.github.io/My_portfolio/)
 
-- 📫 How to reach me **ble20304@gmail.com**
+- 📫 How to reach me **sophie.le304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
