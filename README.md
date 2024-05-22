@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sophiele256.github.io/My_portfolio/](https://sophiele256.github.io/My_portfolio/)
 
-- 📫 How to reach me **sophie.le304@gmail.com**
+- 📫 How to reach me **sophie.le304@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
