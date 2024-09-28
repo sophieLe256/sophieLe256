@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React and NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://sophiele256.github.io/My_portfolio/](https://sophiele256.github.io/My_portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/sophieLe256/sophie-portfolio](https://sophie-portfolio-one.vercel.app/)
 
 - 📫 How to reach me **sophie.le304@outlook.com**
 
